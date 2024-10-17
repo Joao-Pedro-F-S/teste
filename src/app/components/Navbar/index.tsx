@@ -16,11 +16,11 @@ const Navbar = ({ openModal }: NavbarTypeProps) => {
         </li>
 
         <li className="m-2 p-2">
-          <RouterLinks href="/views/shop" text="Loja" />
+          <RouterLinks href="/views/shop" text="Cortes" />
         </li>
 
         <li className="m-2 p-2">
-          <RouterLinks href="/views/contact" text="Contato" />
+          <RouterLinks href="/views/contact" text="Agendamento" />
         </li>
       </ul>
 

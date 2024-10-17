@@ -53,9 +53,13 @@ const UserSession = () => {
       ) : (
         <Link
           href="/views/login"
-          className="mx-8 flex h-10 w-20 items-center justify-center rounded-full border border-primary-700 bg-primary-700 text-base text-white transition-all hover:bg-transparent hover:text-primary-700 md:m-0 md:ml-8"
+          className="mx-8 flex h-10 w-40 items-center justify-center rounded-full border border-primary-700 bg-primary-700 text-base text-white transition-all hover:bg-transparent hover:text-primary-700 md:m-0 md:ml-8"
         >
-          Login
+
+          
+          Iniciar a Sessão
+
+
         </Link>
       )}
     </Fragment>

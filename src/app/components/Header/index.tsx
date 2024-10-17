@@ -25,7 +25,7 @@ const Header = () => {
           />
         </figure>
 
-        <h2 className="p-2 text-white">Capsule</h2>
+        <h2 className="p-2 text-white">Barbearia do siri</h2>
       </Link>
 
       <Navbar openModal={openModal} />
