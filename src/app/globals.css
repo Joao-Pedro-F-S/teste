@@ -20,7 +20,7 @@
   .bg-gradient {
     background-image: radial-gradient(
       circle,
-      rgba(25,46,75,1) 0%,
+      rgb(64, 144, 255) 0%,
       rgba(10,10,10,1) 100%
     );
   }
@@ -36,6 +36,6 @@ body {
   background-color: var(--bg-default);
   background: radial-gradient(
     circle,
-    rgba(25,46,75,1) 0%,
-    rgba(10,10,10,1) 100%);
+    rgb(197, 197, 197) 0%,
+    rgb(230, 230, 230) 100%);
 }
